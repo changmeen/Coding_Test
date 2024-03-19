@@ -43,8 +43,6 @@ class testing {
     }
     
     replaceName();
-    
-    return answer;
 }
 
 static void replaceName(){
