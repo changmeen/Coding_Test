@@ -2,6 +2,7 @@ package Baekjoon.gold;
 import java.util.*;
 import java.io.*;
 
+// 백준 골드4 알파벳
 public class No_1987 {
     static int R, C;
     static char[][] board;
