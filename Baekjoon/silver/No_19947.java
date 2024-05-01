@@ -2,6 +2,7 @@ package Baekjoon.silver;
 import java.io.*;
 import java.util.StringTokenizer;
 
+// 백준 - 실버 - 투자의 귀재 배주형
 public class No_19947 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
