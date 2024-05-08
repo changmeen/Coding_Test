@@ -2,6 +2,7 @@ package Baekjoon.silver;
 import java.io.*;
 import java.util.*;
 
+// 백준 - 실버 - 점프왕 쩰리(Small)
 public class No_16173 {
     static int N;
     static int[][] map;
